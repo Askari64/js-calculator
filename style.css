@@ -13,7 +13,7 @@
     .calculator {
         width: 400px;
         height: 550px;
-        background-color: gainsboro;
+        background-color: rgb(220, 2, 2);
         box-shadow: 4px 4px 8px black;
         border-radius: 15px;
     }
